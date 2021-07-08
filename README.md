@@ -33,7 +33,7 @@
 1. Clone the repository.
 
 ```
-$ git clone https://github.com/verages/YOLOv4_light.git
+$ git clone https://github.com/verages/YOLOv4.git
 ```
 
 2. You are supposed to install some dependencies before getting out hands with these codes.
